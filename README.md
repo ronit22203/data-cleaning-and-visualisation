@@ -13,11 +13,10 @@ seaborn
 matplotlib
 statistics
 numpy
-You can install these libraries using pip:
 
-bash
-Copy code
+You can install these libraries using pip:
 pip install pandas seaborn matplotlib numpy
+
 Instructions
 Load the Dataset: Place the AB_NYC_2019.csv file in the same directory as the project_script.py.
 Run the Script: Execute the project_script.py script to perform data cleaning and generate visualizations.
